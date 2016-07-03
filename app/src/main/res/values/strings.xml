@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio11_SegundoActivity</string>
+    <string name="button">Acerca de</string>
+    <string name="button2">Salir</string>
+    <string name="tv1">Autor: Edwin Chica Arias</string>
+
+</resources>
